@@ -1,0 +1,5 @@
+policies:
+- claims:
+    repository: flocksafety/nativeML
+  permissions:
+    contents: write
